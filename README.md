@@ -1,2 +1,2 @@
 # FMML_Project_and_Labs
-My Project and Lab Submissions of FMML
+My Projects and Lab Submissions of Foundations of Modern Machine Learning (August 2023-24) course by IIIT-H.
